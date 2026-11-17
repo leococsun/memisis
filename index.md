@@ -65,7 +65,7 @@
                     </p>
                 </div>
                 <div class="px-6 py-4 bg-slate-50 border-t border-slate-100 flex justify-between items-center">
-                    <a href="raw/2026-10-26_Update_Notice_Off_the_Rails.md" class="text-indigo-600 hover:text-indigo-700 text-sm font-semibold inline-flex items-center gap-1">
+                    <a href="https://github.com/leococsun/memisis/blob/main/raw/2026-10-26_Update_Notice_Off_the_Rails.md" class="text-indigo-600 hover:text-indigo-700 text-sm font-semibold inline-flex items-center gap-1">
                         閱讀文章 &rarr;
                     </a>
                 </div>
