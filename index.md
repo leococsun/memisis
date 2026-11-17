@@ -56,8 +56,8 @@
             <article class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition flex flex-col">
                 <div class="p-6 flex-grow">
                     <div class="flex items-center justify-between mb-3">
-                        <span class="text-xs font-semibold text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded">範例講義</span>
-                        <span class="text-xs text-slate-400">2026-03-30</span>
+                        <span class="text-xs font-semibold text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded">重大更新</span>
+                        <span class="text-xs text-slate-400">2026-10-26</span>
                     </div>
                     <h3 class="text-lg font-bold text-slate-900 mb-2">2026-10-26更新</h3>
                     <p class="text-slate-600 text-sm line-clamp-3">
