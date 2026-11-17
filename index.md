@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Memisis - 專案知識庫與導覽首頁</title>
+    <title>Memisis - 專案知識庫</title>
     <!-- 引入 Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -59,13 +59,13 @@
                         <span class="text-xs font-semibold text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded">範例講義</span>
                         <span class="text-xs text-slate-400">2026-03-30</span>
                     </div>
-                    <h3 class="text-lg font-bold text-slate-900 mb-2">01. 專案架構與導覽說明</h3>
+                    <h3 class="text-lg font-bold text-slate-900 mb-2">2026-10-26更新</h3>
                     <p class="text-slate-600 text-sm line-clamp-3">
-                        這是 Memisis 的第一篇導覽內容，介紹如何透過 AGENTS.md 規範 AI 協同開發並成功部署至 GitHub Pages。
+                        這是 Memisis 10/26更新說明。
                     </p>
                 </div>
                 <div class="px-6 py-4 bg-slate-50 border-t border-slate-100 flex justify-between items-center">
-                    <a href="./lessons/01-example.html" class="text-indigo-600 hover:text-indigo-700 text-sm font-semibold inline-flex items-center gap-1">
+                    <a href="raw/2026-10-26_Update_Notice_Off_the_Rails.md" class="text-indigo-600 hover:text-indigo-700 text-sm font-semibold inline-flex items-center gap-1">
                         閱讀文章 &rarr;
                     </a>
                 </div>
