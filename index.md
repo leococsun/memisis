@@ -17,7 +17,7 @@
             </a>
             <nav class="flex items-center gap-6 text-sm font-medium text-slate-600">
                 <a href="./index.html" class="hover:text-indigo-600 transition">首頁</a>
-                <a href="./AGENTS.md" target="_blank" class="hover:text-indigo-600 transition">AGENTS.md</a>
+                <a href="https://github.com/leococsun/memisis/blob/main/agents.md" target="_blank" class="hover:text-indigo-600 transition">AGENTS.md</a>
                 <a href="https://github.com/leococsun/memisis" target="_blank" class="hover:text-indigo-600 transition">GitHub</a>
             </nav>
         </div>
